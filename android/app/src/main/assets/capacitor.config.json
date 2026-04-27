@@ -1,0 +1,8 @@
+{
+	"appId": "com.favoritku.app",
+	"appName": "Aplikasi Favoritku",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	}
+}
